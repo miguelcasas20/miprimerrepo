@@ -1,0 +1,15 @@
+C:\a2\miprimerrepo\probando\bin\Debug\net8.0\probando.exe
+C:\a2\miprimerrepo\probando\bin\Debug\net8.0\probando.deps.json
+C:\a2\miprimerrepo\probando\bin\Debug\net8.0\probando.runtimeconfig.json
+C:\a2\miprimerrepo\probando\bin\Debug\net8.0\probando.dll
+C:\a2\miprimerrepo\probando\bin\Debug\net8.0\probando.pdb
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.GeneratedMSBuildEditorConfig.editorconfig
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.AssemblyInfoInputs.cache
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.AssemblyInfo.cs
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.csproj.CoreCompileInputs.cache
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.sourcelink.json
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.dll
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\refint\probando.dll
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.pdb
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\probando.genruntimeconfig.cache
+C:\a2\miprimerrepo\probando\obj\Debug\net8.0\ref\probando.dll
